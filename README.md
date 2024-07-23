@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rushillllchhaya
 - 👀 I’m interested in Cloud Computing Eng
-- 🌱 I’m currently learning in Nirma University
+- 🌱 I’m currently learning in .NET
 - 📫 How to reach me via rushilchhayamediit@gmail.com
-- 😄 Pronouns: he
 - ⚡ Fun fact: I'm super friendly and fun to talk (mostly abt football and anime)
 - A student with Projects about websites and other stuff.......feeel free to look
 - My other contact details are
