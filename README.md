@@ -15,9 +15,11 @@ I specialize in crafting robust and efficient systems, ranging from intelligent 
 
 Here are some of the technologies and tools I frequently work with:
 
-**Languages**: Python, JavaScript, HTML, CSS
-**Frameworks/Libraries**: TensorFlow, Keras, OpenCV, Tkinter, Requests, Geopy, PyTZ, Pillow, Sass
-**Concepts**: Computer Vision, Deep Learning, Socket Programming, Multi-threading, GUI Development, Web Design, Data Preprocessing
+**Languages**: Python, JavaScript, HTML, CSS.
+
+**Frameworks/Libraries**: TensorFlow, Keras, OpenCV, Tkinter, Requests, Geopy, PyTZ, Pillow, Sass.
+
+**Concepts**: Computer Vision, Deep Learning, Socket Programming, Multi-threading, GUI Development, Web Design, Data Preprocessing.
 
 ## ✨ Featured Projects
 
